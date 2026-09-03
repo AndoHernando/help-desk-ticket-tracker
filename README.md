@@ -4,7 +4,7 @@ A command-line ticket tracking tool built in Python, using SQLite for storage.
 
 ## Why I built this
 
-I wanted a real, working coding project for my resume and portfolio as I work toward an entry-level IT Help Desk / Desktop Support role. Rather than relying on AI-generated code, I built this from scratch to understand exactly how a basic ticketing system works under the hood — the same kind of ticket lifecycle (create, update, resolve, close) that a real help desk runs on every day.
+I wanted a real, working coding project for my resume and portfolio as I work toward an entry-level IT Help Desk / Desktop Support role. I built this from scratch with the assistance of Claude Code to understand exactly how a basic ticketing system works under the hood — the same kind of ticket lifecycle (create, update, resolve, close) that a real help desk runs on every day.
 
 ## Features
 
